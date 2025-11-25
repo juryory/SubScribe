@@ -1,0 +1,4 @@
+httpx>=0.25.0
+customtkinter>=5.2.0
+windnd>=1.0.7
+
